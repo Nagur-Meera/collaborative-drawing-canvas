@@ -178,24 +178,3 @@ To run in development mode with auto-reload:
 npm run dev
 ```
 
-## Known Limitations/Bugs
-
-- Undo/redo operations are global and might affect other users' work
-- No persistence - canvas state is lost when the server restarts
-- Limited mobile touch optimization
-- Room state is kept in memory and not persisted to a database
-
-## Time Spent on Project
-
-- Project Setup & Planning: 2 hours
-- Core Drawing Implementation: 4 hours
-- WebSocket Integration: 3 hours
-- UI/UX Design: 2 hours
-- Testing & Bug Fixes: 3 hours
-- Documentation: 1 hour
-
-Total: ~15 hours
-
-## License
-
-MIT#
