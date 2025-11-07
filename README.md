@@ -82,10 +82,6 @@ A powerful real-time collaborative drawing application that enables multiple use
    - Adjust stroke width with the slider
    - Use undo/redo buttons for corrections
 
-3. **Collaboration**
-   - Share your room link with others
-   - See other users' cursors in real-time
-   - Monitor connection status and performance
 
 ## 🔧 Architecture
 
